@@ -1,5 +1,11 @@
 # TheFunPower
 
+如果您不是我们的客户，我们建议您使用其他开源且基于MIT或BSD协议的PHP框架或软件！
+
+这不是一个免费的软件，需要对每个域名进行授权。
+
+
+
 ## 直接使用app开始一个新的项目
 
 https://github.com/thefunpower/app
@@ -24,6 +30,8 @@ thefunpower/auth
 ~~~
 
 其中除了`thefunpower/db_medoo`为MIT协议，其他包均为商用须要授权协议。
+
+
 
 
 
