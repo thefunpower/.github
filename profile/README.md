@@ -8,9 +8,8 @@
 
 在线咨询QQ 68103403
 
-[开发手册](https://thefunpower.netlify.qihetaiji.com/guide/)
+[开发手册](https://thefunpower.netlify.qihetaiji.com/guide/)  |  [软件使用协议](LICENSE.md) 
 
-[软件协议](LICENSE.md)
 
 
 ## 直接使用app开始一个新的项目
