@@ -1,4 +1,4 @@
-软件支持
+软件
 
 工资单： https://www.xda.com.cn/
 
