@@ -1,8 +1,6 @@
-软件
+# TheFunpower Team
 
-工资单： https://www.xda.com.cn/
-
-辅助开票： https://www.easyinvoice.cn/
+Free Composer Software Support 
 
 
 
