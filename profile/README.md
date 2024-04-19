@@ -1,8 +1,7 @@
 # TheFunpower Team
+ 
 
-Free Composer Software Support 
-
-
+Open source makes the world bette
 
 
  
