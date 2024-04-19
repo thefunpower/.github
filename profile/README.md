@@ -1,7 +1,7 @@
 # TheFunpower Team
  
 
-Open source makes the world bette
+Open source makes the world better
 
 
  
